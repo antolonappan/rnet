@@ -1,5 +1,3 @@
-"""A zero-atom plus truncated-Gaussian-mixture posterior over r."""
-
 from __future__ import annotations
 
 import math
